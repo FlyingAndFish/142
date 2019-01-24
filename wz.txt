@@ -1,8 +1,0 @@
-2019/1/24;
-sfs1;
-sds2;
-fs3;
-fsfh4;
-this is first dev;
-this is dev2;
-master5;
